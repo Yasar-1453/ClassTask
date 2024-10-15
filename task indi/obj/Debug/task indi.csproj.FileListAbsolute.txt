@@ -1,0 +1,7 @@
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\bin\Debug\task indi.exe.config
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\bin\Debug\task indi.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\bin\Debug\task indi.pdb
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\obj\Debug\task indi.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\obj\Debug\task indi.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\obj\Debug\task indi.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\task indi\obj\Debug\task indi.pdb
