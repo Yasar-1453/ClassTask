@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp9\\task indi\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|solutionrelative:task indi\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp9\\task indi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|solutionrelative:task indi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp9\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp9\\task indi\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|solutionrelative:task indi\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task indi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp9\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task indi\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\ii novbe\\source\\repos\\consoleapp9\\consoleapp9\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task indi\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\task indi\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs",
               "RelativeDocumentMoniker": "task indi\\Book.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\task indi\\Book.cs*",
-              "RelativeToolTip": "task indi\\Book.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs",
+              "RelativeToolTip": "task indi\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:24:44.383Z",
               "IsPinned": true,
@@ -48,37 +48,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\task indi\\Library.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Library.cs",
               "RelativeDocumentMoniker": "task indi\\Library.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\task indi\\Library.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Library.cs",
               "RelativeToolTip": "task indi\\Library.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:24:20.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\task indi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Program.cs",
               "RelativeDocumentMoniker": "task indi\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\task indi\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Program.cs",
               "RelativeToolTip": "task indi\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:23:53.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Human.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\ConsoleApp9\\Human.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Human.cs",
               "RelativeDocumentMoniker": "ConsoleApp9\\Human.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\ConsoleApp9\\Human.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Human.cs",
               "RelativeToolTip": "ConsoleApp9\\Human.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\ConsoleApp9\\ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Program.cs",
               "RelativeToolTip": "ConsoleApp9\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwB0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T04:12:55.684Z",
               "EditorCaption": ""
