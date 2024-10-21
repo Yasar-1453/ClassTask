@@ -1,0 +1,7 @@
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\obj\Debug\Vehicle abstract.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\obj\Debug\Vehicle abstract.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\bin\Debug\Vehicle abstract.exe.config
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\bin\Debug\Vehicle abstract.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\bin\Debug\Vehicle abstract.pdb
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\obj\Debug\Vehicle abstract.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\Vehicle abstract\obj\Debug\Vehicle abstract.pdb
