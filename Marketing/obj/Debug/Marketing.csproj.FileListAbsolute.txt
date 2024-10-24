@@ -1,0 +1,7 @@
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\bin\Debug\Marketing.exe.config
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\bin\Debug\Marketing.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\bin\Debug\Marketing.pdb
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\obj\Debug\Marketing.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\obj\Debug\Marketing.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\obj\Debug\Marketing.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\Marketing\obj\Debug\Marketing.pdb

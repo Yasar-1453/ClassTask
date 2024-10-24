@@ -1,0 +1,7 @@
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\bin\Debug\24.10 practice.exe.config
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\bin\Debug\24.10 practice.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\bin\Debug\24.10 practice.pdb
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\obj\Debug\24.10 practice.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\obj\Debug\24.10 practice.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\obj\Debug\24.10 practice.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\24.10 practice\obj\Debug\24.10 practice.pdb
