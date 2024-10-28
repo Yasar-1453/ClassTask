@@ -1,0 +1,7 @@
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\bin\Debug\planetary.exe.config
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\bin\Debug\planetary.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\bin\Debug\planetary.pdb
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\obj\Debug\planetary.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\obj\Debug\planetary.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\obj\Debug\planetary.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\planetary\obj\Debug\planetary.pdb
