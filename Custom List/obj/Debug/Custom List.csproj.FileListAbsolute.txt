@@ -1,0 +1,7 @@
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\bin\Debug\Custom List.exe.config
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\bin\Debug\Custom List.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\bin\Debug\Custom List.pdb
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\obj\Debug\Custom List.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\obj\Debug\Custom List.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\obj\Debug\Custom List.exe
+C:\Users\II Novbe\source\repos\ConsoleApp9\Custom List\obj\Debug\Custom List.pdb
