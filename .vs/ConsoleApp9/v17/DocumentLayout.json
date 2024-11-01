@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp9\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|solutionrelative:task indi\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp9\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\ii novbe\\desktop\\asd\\consoleapp9\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task indi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|solutionrelative:task indi\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task indi\\Library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED925E9D-972D-4DAF-A87D-23764B439868}|task indi\\task indi.csproj|solutionrelative:task indi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task indi\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2B0DD2-7061-467B-B3E7-7D7C97CF77E7}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:ConsoleApp9\\Human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs",
               "RelativeDocumentMoniker": "task indi\\Book.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Book.cs",
               "RelativeToolTip": "task indi\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T07:24:44.383Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Library.cs",
               "RelativeDocumentMoniker": "task indi\\Library.cs",
@@ -59,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\task indi\\Program.cs",
               "RelativeDocumentMoniker": "task indi\\Program.cs",
@@ -71,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Human.cs",
               "RelativeDocumentMoniker": "ConsoleApp9\\Human.cs",
@@ -83,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
               "ToolTip": "C:\\Users\\II Novbe\\Desktop\\asd\\ConsoleApp9\\ConsoleApp9\\Program.cs",
               "RelativeToolTip": "ConsoleApp9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T04:12:55.684Z",
               "EditorCaption": ""
